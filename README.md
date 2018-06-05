@@ -35,4 +35,6 @@ Officium is the world leading decentralized peer-to-peer marketplace for trading
 
 
 ## Social media:
-* www.instagram.com/officium.cc
+* instagram.com/officium.cc
+* twitter.com/officiumcc
+
