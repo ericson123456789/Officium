@@ -22,12 +22,12 @@ Officium is the world leading decentralized peer-to-peer marketplace for trading
 
  
 
-Token exchange rates:
+## Token exchange rates:
 
-Week 1-2: 1 ETH = 19 600 OFC (40% Bonus)
+* **Week 1-2: 1 ETH** = 19 600 OFC (40% Bonus)
 
-Week 3-4: 1 ETH = 16 800 OFC  (20% Bonus)
+* **Week 3-4: 1 ETH** = 16 800 OFC  (20% Bonus)
 
-Week 5-6: 1 ETH = 15 400 OFC  (10% Bonus)
+* **Week 5-6: 1 ETH** = 15 400 OFC  (10% Bonus)
 
-Week 7-8 : 1 ETH: = 14 000 OFC  (0% Bonus)
+* **Week 7-8 : 1 ETH**: = 14 000 OFC  (0% Bonus)
