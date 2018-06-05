@@ -3,21 +3,22 @@ Officium is the world leading decentralized peer-to-peer marketplace for trading
 
 ## ICO Sale 
 
-#  70% of the tokens will be offered during tokken sale.
+####  70% of the tokens will be offered during tokken sale.
 
 * **Total supply** : 500,000,000 (500 Million)
 
-Total ICO sale: 350,000,000 (350 Million)
+* **Total ICO sale** : 350,000,000 (350 Million)
 
-Hard cap: 25,000 ETH ( 17 500 000 USD)
+* **Hard cap**: 25,000 ETH ( 17 500 000 USD)
+* **Soft cap** : 5,000 ETH (  3 500 000 USD)
 
-Token symbol: OFC
+* **Token symbol**: OFC
 
-Standard course: 1ETH = 14 000 OFC
+* **Standard course**: 1ETH = 14 000 OFC
 
-Start date: 1.7.2018 - 15:00 UTC
+* **Start date**: 1.7.2018 - 15:00 UTC
 
-End date: 25.8.2018 - 15:00 UTC
+* **End date**: 25.8.2018 - 15:00 UTC
 
  
 
