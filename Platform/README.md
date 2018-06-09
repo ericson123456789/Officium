@@ -1,2 +1,2 @@
 ## In development
-* **will be ready soon**
+ **Will be ready soon**
