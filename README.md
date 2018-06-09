@@ -17,7 +17,7 @@ Officium is the world leading decentralized peer-to-peer marketplace for trading
 
 * **Standard course**: 1ETH = 14 000 OFC
 
-* **Referral**: 15%
+* **Referral system**: 15%
 
 * **Start date**: 1.7.2018 - 15:00 UTC
 
