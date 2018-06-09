@@ -31,7 +31,7 @@ Officium is the world leading decentralized peer-to-peer marketplace for trading
 
 * **Week 5-6: 1 ETH** = 15 400 OFC  (10% Bonus)
 
-* **Week 7-8 : 1 ETH** = 14 000 OFC   (0% Bonus)
+* **Week 7-8: 1 ETH** = 14 000 OFC   (0% Bonus)
 
 
 ## Social media:
